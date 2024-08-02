@@ -1,1 +1,2 @@
-[Spring-Boot-project-design.pdf](https://github.com/user-attachments/files/16476115/Spring-Boot-project-design.pdf)
+Below is the major design and components for this project
+![Blank diagram](https://github.com/user-attachments/assets/da026235-5de7-4c98-8678-28eae87e1576)
